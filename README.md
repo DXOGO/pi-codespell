@@ -6,7 +6,7 @@ CodeSpell is A Graphical Reactive Platform for Programming Learning that intends
 
 ##### Check out our work in [Github](https://github.com/Code-Spell) and participate in our journey to make this better and bigger
 
-##### Play our game online here: https://codespell.live
+##### Play our game online here: [codespell.live](https://codespell.live)
 
 #### Team members:
 
