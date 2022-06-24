@@ -9,9 +9,9 @@
 
 **CodeSpell** is a Graphical Reactive Platform for Programming Learning that intends to create a game-like experience in a game-like style that allows players to visually identify and explore the effects of several programming mechanisms based on their code, and to provide documentation, tips and possible solutions for their problems. Achievements, scoreboards and community solutions have been implemented so that users feel motivated to improve their programming skills.
 
-##### Check out our work in our [Github Organization](https://github.com/Code-Spell) and participate in our journey to make this better and bigger!
+##### :wave: Check out our work in our [Github Organization](https://github.com/Code-Spell) and participate in our journey to make this better and bigger!
 
-##### Play our game online here: [codespell.live](https://codespell.live)
+##### :video_game: Play our game online here: [codespell.live](https://codespell.live)
 
 #### Team members:
 
