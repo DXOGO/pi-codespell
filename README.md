@@ -1,7 +1,7 @@
 # CODESPELL - Final IT Project 2021/2022
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/957303567050485800/957303598159634532/CODESPELL.png" width="300" height="300" alt="codespell"/>
+  <img src="https://user-images.githubusercontent.com/73489245/175436686-426a7047-0b52-440b-94a0-24de80be43cd.png" alt="codespell"/>
 </p>
 
 ### Who are we?
