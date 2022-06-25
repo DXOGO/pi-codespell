@@ -24,3 +24,4 @@
 | [Paulo Pereira](https://github.com/PauloGSP)   | Architect     | paulogspereira@ua.pt  |
 | Daniel Corujo                                  | Coordinator   | dcorujo@ua.pt         |
 
+Final Grade: **18**
