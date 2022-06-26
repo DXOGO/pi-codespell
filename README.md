@@ -13,6 +13,7 @@
 
 ##### :video_game: Play our game online here: [codespell.live](https://codespell.live)
 
+##### :computer: Have a more in-depth look in our [Project Website](https://krapaxar.wixsite.com/codespell)! 
 ### System Architecture
 <p align="left">
   <img src="https://user-images.githubusercontent.com/73489245/175795848-66a495af-2a85-4e12-a297-d17fdf7ce44f.png" width="800" height="500" alt="codespell-architecture"/>
