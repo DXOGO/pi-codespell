@@ -20,8 +20,8 @@
 
 ### Final Result
 <p>
-  <img src="https://user-images.githubusercontent.com/73489245/175795891-3b9b5bbe-9b45-4d97-9a6f-f74fd019a8f8.png" align="left" width="430"height="245"alt="codespell-dashboard"/> 
-  <img src="https://user-images.githubusercontent.com/73489245/175795900-81ddab63-1865-4b57-9673-d2b73918276b.png" align"right" width="430" height="245" alt="codespell-level"/>
+  <img src="https://user-images.githubusercontent.com/73489245/175795891-3b9b5bbe-9b45-4d97-9a6f-f74fd019a8f8.png" align="left" width="415" height="230" alt="codespell-dashboard"/> 
+  <img src="https://user-images.githubusercontent.com/73489245/175795900-81ddab63-1865-4b57-9673-d2b73918276b.png" align"right" width="415" height="230" alt="codespell-level"/>
 </p>
 
 ### Team members:
