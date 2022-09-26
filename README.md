@@ -11,8 +11,6 @@
 
 ##### :wave: Check out our work in our [Github Organization](https://github.com/Code-Spell) and participate in our journey to make this better and bigger!
 
-##### :video_game: Play our game online here: [codespell.live](https://codespell.live)
-
 ##### :computer: Have a more in-depth look in our [Project Website](https://krapaxar.wixsite.com/codespell)! 
 ### System Architecture
 <p align="left">
